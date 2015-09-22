@@ -2,8 +2,9 @@
 
 Version 1.0.0
 
+##I am made up of GIFs and snails and puppy dog tails.
 
-Description & motivation — share your vision, why you made it, its purpose
+For work I blend illustration, photography, film footage, graphics, and typography into motion design pieces. For fun I paste illustrations over abandoned places. 
 
 
 braticate.com
