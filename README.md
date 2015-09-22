@@ -11,8 +11,8 @@ dependencies, examples, etc.
 
 Use instructions, quick start documentation & troubleshooting — descriptive examples with code, obvious, concise, common problems and gotchas, etc.
 
-Demos: braticate.com
+braticate.com
 
-Contributors: Braticate, hello@braticate.com
+hello@braticate.com
 
-License: Marissa Godwin 2015.
+Marissa Godwin 2015.
