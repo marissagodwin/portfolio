@@ -28,6 +28,44 @@ html {
     width: 100%;
 }
 
+.squarifier {
+    padding-top: 100%;
+}
+
+.rectanglifier {
+    padding-top: 50%;
+}
+
+.jack {
+    background-image: url(../images/jack-whitesmall.jpg);
+    background-size: cover;
+}
+    
+.fell {
+    background-image: url(../images/eyegif.gif);
+    background-size: cover;
+}
+
+.daughter {
+    background-image: url(../images/daughtersmall.jpg);
+    background-size: cover;
+}
+
+.lucky {
+    background-image: url(../images/luckycatsmall.gif);
+    background-size: cover;
+}
+
+.millipede {
+    background-image: url(../images/millismall.gif);
+    background-size: cover;
+}
+
+.placeholder {
+    background-image: url(../images/placeholder.jpg);
+    background-size: cover;
+}
+
 .nav {
     padding: 0;
     list-style: none;
