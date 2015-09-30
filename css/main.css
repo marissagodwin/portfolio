@@ -33,8 +33,14 @@ html {
     padding-top: 100%;
 }
 
-.rectanglifier {
+.rectanglifierleft {
     padding-top: 50%;
+    margin-right: 1em;
+}
+
+.rectanglifierright {
+    padding-top: 50%;
+    margin-left: 1em;
 }
 
 .jack {
