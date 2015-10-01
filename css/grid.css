@@ -11,7 +11,7 @@
   -ms-flex-flow: row wrap;
   display: flex;
   flex-flow: row wrap;
-  max-width: 50em;
+  max-width: 70em;
 }
 
 .grid-bottom {
