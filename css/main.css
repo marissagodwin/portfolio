@@ -128,7 +128,6 @@ nav a {
     max-width: 375px;
 }
 
-
 .jack {
     background-image: url(../images/jack-whitesmall.jpg);
     background-size: cover;
@@ -241,4 +240,5 @@ nav a {
 
 .aboutright {
     margin-left: 2em;
+    max-width: 30em;
 }
