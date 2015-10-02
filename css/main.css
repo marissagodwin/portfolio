@@ -20,9 +20,92 @@ html {
     box-sizing: inherit;
 }
 
+
+.nav {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin-bottom: 1em;
+}
+ 
+.nav a,
+.nav a:link,
+.nav a:visited {
+  background-color: white;
+  text-decoration: none;
+  color: grey;  
+  padding: .5em;
+
+}
+
+.nav a:hover,
+.nav a:focus,
+.nav a:active,
+.nav .nav-current,
+.nav .nav-current:link,
+.nav .nav-current:visited {
+  color: white;
+  text-decoration: none;
+  background-color: #b4cdcd; 
+  border-bottom: solid;
+}
+
+.navtop {
+    padding: 0;
+    list-style: none;
+}
+
+.navtop a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar {
+    background-color: white;
+}
+    
+nav ul {
+    margin: 0 auto;
+    padding: 0;
+}
+    
+nav li {
+    font-family: 'Open Sans', sans-serif; 
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-right: 1em;
+}
+    
+nav a:hover {
+    color: red;
+}
+
+nav a {
+    color: #414042;
+    text-decoration: none;
+    font-size: 0.75em;
+    letter-spacing: 1px;
+}
+
+.current {
+    border-bottom: 3px solid;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
 .ratlogo {
     width: 100%;
     max-width: 21em;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .image100 {
@@ -51,6 +134,21 @@ html {
     background-size: cover;
 }
 
+.a4w {
+    background-image: url(../images/a4wlive.gif);
+    background-size: cover;
+}
+
+.cfs {
+    background-image: url(../images/ccfs.gif);
+    background-size: cover;
+}
+
+.lilb {
+    background-image: url(../images/lilb.gif);
+    background-size: cover;
+}
+
 .daughter {
     background-image: url(../images/daughtersmall.jpg);
     background-size: cover;
@@ -66,69 +164,16 @@ html {
     background-size: cover;
 }
 
+.kitkat {
+    background-image: url(../images/kitcat.gif);
+    background-size: cover;
+}
+
 .placeholder {
     background-image: url(../images/placeholder.jpg);
     background-size: cover;
 }
 
-.nav {
-    padding: 0;
-    list-style: none;
-    margin: 0;
-    text-align: center;
-}
-
-.nav a,
-.nav a:link,
-.nav a:visited {
-  display: block;
-  color: black;
-  text-decoration: none;
-}
-
-.nav a:hover,
-.nav a:focus,
-.nav a:active,
-.nav .nav-current,
-.nav .nav-current:link,
-.nav .nav-current:visited {
-  color: white;
-  text-decoration: none;
-  background-color: #0074D9; 
-  padding: 1em;
-}
- 
-.nav a,
-.nav a:link,
-.nav a:visited {
-  background-color: white;
-  text-decoration: none;
-  color: grey;  
-  padding: .5em;
-
-}
-
-.nav a:hover,
-.nav a:focus,
-.nav a:active,
-.nav .nav-current,
-.nav .nav-current:link,
-.nav .nav-current:visited {
-  color: white;
-  text-decoration: none;
-  background-color: #b4cdcd; 
-}
-
-.navtop {
-    padding: 0;
-    list-style: none;
-}
-
-.navtop a {
-    display: block;
-    text-decoration: none;
-    color: black;
-}
 
 .mail {
     text-decoration: none;
@@ -160,15 +205,20 @@ html {
         display:inline;
 }
 
+.navbutton {
+    max-width: 2em;
+}
+
 @media only screen and (min-width: 38em) {
 
-.hide {
-        display: inline;
+.show {
+    display: none;
 }
     
-.show {
-        display: none;
-}
+    
+.hide {
+    display: inline;
+    } 
     
 .rectanglifierleft {
     padding-top: 50%;
