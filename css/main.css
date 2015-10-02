@@ -124,6 +124,11 @@ nav a {
     padding-top: 50%;
 }
 
+.me {
+    max-width: 375px;
+}
+
+
 .jack {
     background-image: url(../images/jack-whitesmall.jpg);
     background-size: cover;
@@ -181,12 +186,16 @@ nav a {
 }
 
 .copy {
-        text-align: center;
+    text-align: center;
 }
 
 .center{
-        margin: 0 auto;
-        text-align: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.alignleft {
+    text-align: left;
 }
 
 .link { 
@@ -228,4 +237,8 @@ nav a {
 .rectanglifierright {
     padding-top: 50%;
     margin-left: 1em;
+}
+
+.aboutright {
+    margin-left: 2em;
 }
