@@ -101,6 +101,14 @@ nav a {
     overflow: hidden;
 }
 
+.full {
+    width: 100%;
+}
+
+.addmarginright{
+    margin-right: 2em;
+}
+
 .ratlogo {
     width: 100%;
     max-width: 21em;
