@@ -5,6 +5,9 @@ For work I blend illustration, photography, film footage, graphics, and typograp
 
 For fun I paste illustrations over abandoned places. 
 
+I'm a motion designer from Ottawa, Canada.
+Send me an email, let's work together
+
 
 braticate.com
 hello@braticate.com
