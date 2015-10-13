@@ -181,6 +181,16 @@ nav a {
     background-size: cover;
 }
 
+.tfc {
+    background-image: url(../images/tcf.gif);
+    background-size: cover;
+}
+
+.hand {
+    background-image: url(../images/hand.gif);
+    background-size: cover;
+}
+
 .placeholder {
     background-image: url(../images/placeholder.jpg);
     background-size: cover;
