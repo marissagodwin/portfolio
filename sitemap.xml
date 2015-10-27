@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://braticate.com</loc>
+    <priority>1.0</priority>
+    <lastmod>2015-10-27</lastmod>
+    <changefreq>never</changefreq>
+  </url>
+
+  <!-- If you want to add another page, add another <url> tag -->
+  <url>
+    <loc>https://braticate.com/about/</loc>
+    <priority>1.0</priority>
+    <lastmod>2015-10-27</lastmod>
+    <changefreq>never</changefreq>
+  </url>
+
+</urlset>
