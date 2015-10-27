@@ -5,15 +5,14 @@
     <loc>https://braticate.com</loc>
     <priority>1.0</priority>
     <lastmod>2015-10-27</lastmod>
-    <changefreq>never</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
 
-  <!-- If you want to add another page, add another <url> tag -->
   <url>
     <loc>https://braticate.com/about/</loc>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
     <lastmod>2015-10-27</lastmod>
-    <changefreq>never</changefreq>
+    <changefreq>yearly</changefreq>
   </url>
 
 </urlset>
