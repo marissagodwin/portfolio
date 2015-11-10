@@ -8,4 +8,6 @@ video: http://portfolio-230c.kxcdn.com/cfs.mp4
 
 ---
 
+<p class="alignleft ">
 A poppy and gorey blend of tactile stop motion and digital editing. Featuring The White Stripes, bikinis, kraken, and popsicles.
+</p>

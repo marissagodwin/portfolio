@@ -10,4 +10,6 @@ video: http://portfolio-230c.kxcdn.com/tfc.mp4
 
 ---
 
+<p class="alignleft ">
 A comicbook style video for Toronto Football Club teammate Jozy Altidore.
+</p>

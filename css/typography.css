@@ -1,5 +1,5 @@
 html {
-  font: normal 100%/1.5 "Merriweather",serif;
+  font: normal 100%/1.5 "Open Sans",sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .default-family {
-  font-family: "Merriweather", serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .bold {
