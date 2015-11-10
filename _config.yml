@@ -2,4 +2,4 @@ permalink: pretty
 baseurl: /portfolio
 exclude: ['README.md']
 gems: 
-    - jekyll-redirect-from
+  - jekyll-redirect-from
