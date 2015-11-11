@@ -94,6 +94,10 @@ nav a {
     letter-spacing: 1px;
 }
 
+.smalllogo {
+    width: 100px;
+}
+
 .current {
     border-bottom: 3px solid;
 }
@@ -236,6 +240,10 @@ video {
 
 .alignleft {
     text-align: left;
+}
+
+.alignright {
+ text-align: right;
 }
 
 .link { 
