@@ -1,5 +1,5 @@
 ---
-layout: stills
+layout: gifs
 title: GIFs
 role: llustration, Motion Design
 

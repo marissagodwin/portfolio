@@ -10,11 +10,3 @@ desc: A fully stop-motion title sequence for a whimsical children's show. As all
 
 ---
 
-<div class="grid pad-t">
-    <div class="unit unit-xs-1 unit-s-1 unit-m-2-3 gutter-1-2 push">
-        <div class="embed embed-16by9">
-            <iframe class="embed-item" src="http://portfolio-230c.kxcdn.com/Little Bellwoods_Master Output_V2.mov" frameborder="0" allowfullscreen></iframe>
-        </div>
-    </div>   
-</div>
-
