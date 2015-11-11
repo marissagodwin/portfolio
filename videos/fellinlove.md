@@ -3,7 +3,7 @@ layout: video
 title: Fell in Love
 role: Role. Creative Direction, Motion Design
 for: For Jamie Muntean
-video: http://portfolio-230c.kxcdn.com/cfs.mp4
+video: http://portfolio-230c.kxcdn.com/fell.mp4
 desc: A poppy and gorey blend of tactile stop motion and digital editing. Featuring The White Stripes, bikinis, kraken, and popsicles.
 
 ---
