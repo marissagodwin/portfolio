@@ -13,7 +13,7 @@ desc: Creating a commercial spot for the product, as well as an explainer for sh
 <div class="grid pad-t">
     <div class="unit unit-xs-1 unit-s-1 unit-m-2-3 gutter-1-2 push">
         <div class="embed embed-16by9">
-            <iframe class="embed-item" src="http://portfolio-230c.kxcdn.com/A4W_Live PSA Broadcast.mp4" frameborder="0" allowfullscreen></iframe>
+            <video class="embed-item" src="http://portfolio-230c.kxcdn.com/A4W_Live PSA Broadcast.mp4" frameborder="0" allowfullscreen controls> Video of A4W Live Broacast</video>
         </div>
     </div>   
 </div>
@@ -21,7 +21,7 @@ desc: Creating a commercial spot for the product, as well as an explainer for sh
 <div class="grid pad-t">
     <div class="unit unit-xs-1 unit-s-1 unit-m-2-3 gutter-1-2 push">
         <div class="embed embed-16by9">
-            <iframe class="embed-item" src="http://portfolio-230c.kxcdn.com/A4W_EXPLAINER_ENG_FULL_Final.mp4" frameborder="0" allowfullscreen></iframe>
+            <video class="embed-item" src="http://portfolio-230c.kxcdn.com/A4W_EXPLAINER_ENG_FULL_Final.mp4" frameborder="0" allowfullscreen controls>Video of A4W Explainer</video>
         </div>
     </div>   
 </div>
