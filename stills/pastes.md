@@ -1,8 +1,7 @@
 ---
 layout: stills
 title: Paste Ups
-role: Creative Direction, Illustration, Paste-up
-desc: A collection of paste-ups.
+role: Illustration, Hooliganism, Running fast
 
 ---
   

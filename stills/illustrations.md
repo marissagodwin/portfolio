@@ -1,8 +1,5 @@
 ---
 layout: stills
-title: Paste Ups
-role: Creative Direction, Illustration, Paste-up
-desc: A collection of paste-ups.
 
 ---
   
@@ -25,7 +22,7 @@ desc: A collection of paste-ups.
     </div>
     
 </div>  
-  <p>Illustrations of artists</p>
+  <h4>Illustrations of artists</h4>
   
   
   <div class="grid pad-t">   
@@ -47,7 +44,7 @@ desc: A collection of paste-ups.
     </div>
     
 </div>  
-  <p>A collection of Alice in Wonderland character cameos</p>
+  <h4>A collection of Alice in Wonderland character cameos</h4>
 
   
   

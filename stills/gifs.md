@@ -1,8 +1,8 @@
 ---
 layout: gifs
-title: Free time GIF making
-role: llustration, Motion Design,
-desc: A growing collection of GIFs made in my spare time, practicing new techniques, and studying motion.
+title: Assorted GIFs 
+role: llustration, Motion Design, Killing time
+desc: A growing collection of free-time GIFs, with the goal of practicing new techniques & studying motion.
 
 ---
 
