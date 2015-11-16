@@ -29,13 +29,19 @@
         
 </head>
 
+<ul class="skip-links"> 
+    
+    <li><a href="#navigation">Jump to navigation</a></li>
+    <li><a href="#main">Jump to main content</a></li>
+</ul>  
+
  <header class="navbar">
         <div class="gutter grid grid-stretch">
-            <nav>
+            <nav role="navigation">
                 <ul>
                    
-                    <li class="top nav-link"><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">PORTFOLIO</a></li>
-                    <li class="top nav-link"><a href="{{site.baseurl}}/about/" class="{% if page.url == '/about/' %}current{% endif %}">ABOUT</a></li>
+                    <li class="top nav-link"><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}" aria-label="portfolio page">PORTFOLIO</a></li>
+                    <li class="top nav-link"><a href="{{site.baseurl}}/about/" class="{% if page.url == '/about/' %}current{% endif %}" aria-label="about me page">ABOUT</a></li>
                     
                         </ul>        
                 
@@ -50,16 +56,16 @@
     
         
 <div class="pad-t gutter center">    
-<a href="mailto:hello@braticate.com" class="mail"><h2 class="location giga">hello@braticate.com</h2></a> 
+<a href="mailto:hello@braticate.com" class="mail" aria-label="mail"><h2 class="location giga">hello@braticate.com</h2></a> 
 </div>  
     
 <div class="center">
         
-            <div class="center"><a href="https://instagram.com/braticate/"><img src="{{site.baseurl}}/images/instagram.png" class="navbutton" alt="Instagram logo"></a>
+            <div class="center"><a href="https://instagram.com/braticate/"><img src="{{site.baseurl}}/images/instagram.png" class="navbutton" alt="Instagram logo" aria-label="Instagram link"></a>
 
-   <a href="https://vimeo.com/braticate"><img src="{{site.baseurl}}/images/vimeo.png" class="navbutton" alt="Vimeo logo"></a>
+   <a href="https://vimeo.com/braticate"><img src="{{site.baseurl}}/images/vimeo.png" class="navbutton" alt="Vimeo logo" aria-label="Vimeo link"></a>
 
-          <a href="https://www.behance.net/marissae"><img src="{{site.baseurl}}/images/behance.png" class="navbutton" alt="Behance logo"></a>
+          <a href="https://www.behance.net/marissae"><img src="{{site.baseurl}}/images/behance.png" class="navbutton" alt="Behance logo" aria-label="Behance link"></a>
                 
 
     </div>

@@ -94,6 +94,25 @@ nav a {
     letter-spacing: 1px;
 }
 
+.skip-links {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.skip-links a {
+  position: absolute;
+  top: -3em;
+  background-color: black;
+  color: white;
+  padding: 0.5em 0.75em;
+  font-weight: bold;
+}
+
+.skip-links a:focus {
+  top: 0;
+}
+
 .smalllogo {
     width: 100px;
 }
@@ -222,7 +241,6 @@ video {
     background-image: url(../images/placeholder.jpg);
     background-size: cover;
 }
-
 
 .mail {
     text-decoration: none;
