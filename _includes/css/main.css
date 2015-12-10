@@ -54,7 +54,7 @@ nav li {
 }
     
 nav a:hover {
-    color: grey;
+    color: #C3D1CB;
 }
 
 nav a {
@@ -64,7 +64,7 @@ nav a {
     letter-spacing: 1px;
 }
 
-.logoleft {
+.lettermark {
     position: absolute;
     top: 14px;
     left: 2%;
