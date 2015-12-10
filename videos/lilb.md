@@ -10,7 +10,7 @@ desc: A fully stop-motion title sequence for a whimsical children's show. As all
 
 ---
 
-
+<title>Little Bellwoods · Braticate</title>
 <div class="grid pad-t">
     <div class="unit unit-xs-1 unit-s-1 unit-m-2-3 gutter-1-2 push">
         <div class="embed embed-16by9">

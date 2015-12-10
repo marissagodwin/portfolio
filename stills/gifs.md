@@ -5,7 +5,7 @@ role: llustration, Motion Design, Killing time
 desc: A growing collection of free-time GIFs, with the goal of practicing new techniques & studying motion.
 
 ---
-
+<title>Gifs · Braticate</title>
 <div class="grid grid-stretch">
      <div class="unit unit-xs-1 unit-s-1 unit-m-1-3 push gutter-1-2">
      <a href="{{site.baseurl}}/stills/gifs">   

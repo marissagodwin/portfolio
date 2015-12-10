@@ -4,7 +4,7 @@ title: Paste Ups
 role: Illustration, Hooliganism, Running fast
 
 ---
-  
+<title>Paste Ups · Braticate</title>
    <div class="grid pad-t">   
     
     <div class="unit unit-xs-1 unit-m-1-2 unit-l-1-4 gutter-1-2">

@@ -10,7 +10,7 @@ desc: A wacky video to be aired on VICE targetting the youth demographic in Cana
 video: http://portfolio-230c.kxcdn.com/cfs.mp4
 
 ---
-
+<title>CFS · Braticate</title>
 <div class="grid pad-t">
     <div class="unit unit-xs-1 unit-s-1 unit-m-2-3 gutter-1-2 push">
         <div class="embed embed-16by9">
