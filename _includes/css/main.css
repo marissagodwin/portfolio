@@ -61,12 +61,7 @@ nav a {
     letter-spacing: 1px;
 }
 
-nav a:hover,
-nav a:focus,
-nav a:active,
-nav .nav-current, {
-  color: red;
-}
+
 
 .lettermark {
     position: absolute;
