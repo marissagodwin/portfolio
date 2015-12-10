@@ -61,12 +61,12 @@ nav a {
     letter-spacing: 1px;
 }
 
-nav a:hover,
-nav a:focus,
-nav a:active,
-nav .nav-current,
-nav .nav-current:link,
-nav .nav-current:visited {
+.nav a:hover,
+.nav a:focus,
+.nav a:active,
+.nav .nav-current,
+.nav .nav-current:link,
+.nav .nav-current:visited {
   text-decoration: none;
   color: red;
   padding: 1em;
